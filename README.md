@@ -4,7 +4,7 @@ Tested on: Windows, Linux,...
 <h1>Requirements:</h1>
 <code>pip3 install colorama, requests</code><br>
 <h1>USAGE:</h1>
-<code>git clone https://github.com/Udyz/CCGen-Checker/</code>
+<code>git clone https://github.com/Udyz/CCGen-Checker/</code><br>
 <code>python3 x.py</code>
 <img src="https://i.imgur.com/ZL03DxF.png"></img>
 <code>Saved files to: live.txt, die.txt, unknown.txt</code>
